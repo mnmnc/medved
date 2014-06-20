@@ -1,0 +1,12 @@
+2014/02/22 14:19:58 prince.com @ ns1.dnsresolve.net
+
+prince.com.		86400	IN	SOA	ns1.dnsresolve.net. root.ns1.dnsresolve.net. 2010120801 40000 7200 604800 86400
+prince.com.		86400	IN	NS	ns1.dnsresolve.net.
+prince.com.		86400	IN	NS	ns2.dnsresolve.net.
+prince.com.		86400	IN	A	64.246.46.122
+prince.com.		86400	IN	MX	10 mail.prince.com.
+*.prince.com.		86400	IN	A	64.246.46.122
+mail.prince.com.	86400	IN	A	64.246.46.122
+ftp.prince.com.		86400	IN	A	64.246.46.122
+www.prince.com.		86400	IN	A	64.246.46.122
+prince.com.		86400	IN	SOA	ns1.dnsresolve.net. root.ns1.dnsresolve.net. 2010120801 40000 7200 604800 86400

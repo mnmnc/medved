@@ -1,0 +1,9 @@
+2014/02/22 14:22:05 unclesam.com @ ns2.dnsnameservers.net
+
+unclesam.com.		38400	IN	SOA	ns1.dnsnameservers.net. root.ns1.dnsnameservers.net. 2013070801 10800 3600 604800 38400
+unclesam.com.		38400	IN	NS	ns1.dnsnameservers.net.
+unclesam.com.		38400	IN	NS	ns2.dnsnameservers.net.
+unclesam.com.		38400	IN	A	65.49.82.14
+unclesam.com.		38400	IN	MX	10 mail.unclesam.com.
+*.unclesam.com.		38400	IN	A	65.49.82.14
+unclesam.com.		38400	IN	SOA	ns1.dnsnameservers.net. root.ns1.dnsnameservers.net. 2013070801 10800 3600 604800 38400

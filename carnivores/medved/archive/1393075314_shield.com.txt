@@ -1,0 +1,38 @@
+2014/02/22 14:21:54 shield.com @ dns2.vesign.com
+
+shield.com.		300	IN	SOA	dns1.vesign.com. info.vesign.com. 2013111500 14400 7200 3600000 86400
+shield.com.		300	IN	MX	0 shield.com.
+shield.com.		86400	IN	NS	dns1.vesign.com.
+shield.com.		86400	IN	NS	dns2.vesign.com.
+shield.com.		300	IN	A	50.28.102.149
+_autodiscover._tcp.shield.com. 300 IN	SRV	0 0 443 cpanelemaildiscovery.cpanel.net.
+autoconfig.shield.com.	300	IN	A	50.28.102.149
+autodiscover.shield.com. 300	IN	A	50.28.102.149
+cpanel.shield.com.	300	IN	A	50.28.102.149
+ftp.shield.com.		300	IN	A	50.28.102.149
+localhost.shield.com.	300	IN	A	127.0.0.1
+mail.shield.com.	300	IN	CNAME	shield.com.
+webdisk.shield.com.	300	IN	A	50.28.102.149
+webmail.shield.com.	300	IN	A	50.28.102.149
+whm.shield.com.		300	IN	A	50.28.102.149
+www.shield.com.		300	IN	CNAME	shield.com.
+shield.com.		300	IN	SOA	dns1.vesign.com. info.vesign.com. 2013111500 14400 7200 3600000 86400
+2014/02/22 14:21:54 shield.com @ dns1.vesign.com
+
+shield.com.		300	IN	SOA	dns1.vesign.com. info.vesign.com. 2013111500 14400 7200 3600000 86400
+shield.com.		300	IN	MX	0 shield.com.
+shield.com.		86400	IN	NS	dns1.vesign.com.
+shield.com.		86400	IN	NS	dns2.vesign.com.
+shield.com.		300	IN	A	50.28.102.149
+_autodiscover._tcp.shield.com. 300 IN	SRV	0 0 443 cpanelemaildiscovery.cpanel.net.
+autoconfig.shield.com.	300	IN	A	50.28.102.149
+autodiscover.shield.com. 300	IN	A	50.28.102.149
+cpanel.shield.com.	300	IN	A	50.28.102.149
+ftp.shield.com.		300	IN	A	50.28.102.149
+localhost.shield.com.	300	IN	A	127.0.0.1
+mail.shield.com.	300	IN	CNAME	shield.com.
+webdisk.shield.com.	300	IN	A	50.28.102.149
+webmail.shield.com.	300	IN	A	50.28.102.149
+whm.shield.com.		300	IN	A	50.28.102.149
+www.shield.com.		300	IN	CNAME	shield.com.
+shield.com.		300	IN	SOA	dns1.vesign.com. info.vesign.com. 2013111500 14400 7200 3600000 86400

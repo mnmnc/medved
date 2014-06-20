@@ -1,0 +1,24 @@
+2014/02/22 14:20:25 hospitality.com @ ns2.kilomonkey.com
+
+hospitality.com.	86400	IN	SOA	hospitality.com. webmaster.hospitality.com. 2003111112 7200 3600 604800 86400
+hospitality.com.	86400	IN	NS	ns1.kilomonkey.com.
+hospitality.com.	86400	IN	NS	ns2.kilomonkey.com.
+hospitality.com.	86400	IN	A	70.90.215.81
+hospitality.com.	86400	IN	MX	10 mail.hospitality.com.
+mail.hospitality.com.	86400	IN	A	70.90.215.81
+mail.hospitality.com.	86400	IN	MX	10 mail.hospitality.com.
+www.hospitality.com.	86400	IN	A	70.90.215.81
+www.hospitality.com.	86400	IN	MX	10 mail.hospitality.com.
+hospitality.com.	86400	IN	SOA	hospitality.com. webmaster.hospitality.com. 2003111112 7200 3600 604800 86400
+2014/02/22 14:20:25 hospitality.com @ ns1.kilomonkey.com
+
+hospitality.com.	86400	IN	SOA	hospitality.com. webmaster.hospitality.com. 2003111112 7200 3600 604800 86400
+hospitality.com.	86400	IN	NS	ns1.kilomonkey.com.
+hospitality.com.	86400	IN	NS	ns2.kilomonkey.com.
+hospitality.com.	86400	IN	A	70.90.215.81
+hospitality.com.	86400	IN	MX	10 mail.hospitality.com.
+mail.hospitality.com.	86400	IN	A	70.90.215.81
+mail.hospitality.com.	86400	IN	MX	10 mail.hospitality.com.
+www.hospitality.com.	86400	IN	A	70.90.215.81
+www.hospitality.com.	86400	IN	MX	10 mail.hospitality.com.
+hospitality.com.	86400	IN	SOA	hospitality.com. webmaster.hospitality.com. 2003111112 7200 3600 604800 86400
