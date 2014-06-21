@@ -1,4 +1,7 @@
 # Mèdved
+
+This is a web-based tool designed to automate the search for domain transfers. It has an intuitive interface and few helpful shortcuts. As an input it expects a domain or list of domains. Ideally the list should be comma-separated but it will handle space or CR-LF separated lists as well. Aside from normal results it gives you a log of performed searches and all successful transfers are archived.
+
 [Extended description](http://wondershell.wordpress.com/2014/04/09/medved-web-based-dns-zone-transfer-automation/)
 
 ### Dependencies
