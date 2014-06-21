@@ -19,6 +19,7 @@ This is a web-based tool designed to automate the search for domain transfers. I
 ![Functions available](https://raw.githubusercontent.com/mnmnc/img/master/Help.PNG)
 
 ### Interface
+(The help is toggled in this one.)
 ![Interface](https://raw.githubusercontent.com/mnmnc/img/master/medved1.jpg)
 
 
