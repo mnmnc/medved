@@ -12,7 +12,7 @@
 ![Directory structure](https://raw.githubusercontent.com/mnmnc/img/master/medved_tree.jpg)
 
 ### Functions available
-![Functions available](https://raw.githubusercontent.com/mnmnc/img/master/help.png)
+![Functions available](https://raw.githubusercontent.com/mnmnc/img/master/Help.PNG)
 
 ### Interface
 ![Interface](https://raw.githubusercontent.com/mnmnc/img/master/medved1.jpg)
