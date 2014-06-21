@@ -22,6 +22,7 @@ This is a web-based tool designed to automate the search for domain transfers. I
 ![Interface](https://raw.githubusercontent.com/mnmnc/img/master/medved1.jpg)
 
 ### Mobile Interface
+It has been implemented with responsive design so you can use it on your smartphone/tablet although the interface becomes slightly denser:
 ![Mobile Interface](https://raw.githubusercontent.com/mnmnc/img/master/medved2.jpg)
 
 ### Example usage
