@@ -1,5 +1,8 @@
 # Mèdved
 
+### Extended description
+
+
 ### Dependencies
 * PHP5
 * [Shortcut.js](http://www.mattytemple.com/projects/shortcut-js/)
