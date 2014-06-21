@@ -29,8 +29,9 @@ It has been implemented with responsive design so you can use it on your smartph
 ![Mobile Interface](https://raw.githubusercontent.com/mnmnc/img/master/medved2.jpg)
 
 ### Example usage
+As you can see int the picture below the transfer for Microsoft is actively refused. All tested NS servers have separate tabs. The warning sign shown for other domain (which i removed from the picture) indicates that server do not accept TCP connections. The OK sign for one of the servers indicates successful transfer.
 ![Example usage](https://raw.githubusercontent.com/mnmnc/img/master/medved3.jpg)
-As you can see the transfer for Microsoft is actively refused. All tested NS servers have separate tabs. The warning sign shown for other domain (which i removed from the picture) indicates that server do not accept TCP connections. The OK sign for one of the servers indicates successful transfer.
+
 
 ### Build-in Archive
 It is common to frequently test the same domain after some time, to see if new records have been added or if the server configuration has been corrected. That is why all the successful transfers are saved in the archive. An archive is a simple list of available transfer results.
