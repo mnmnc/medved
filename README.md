@@ -7,4 +7,8 @@
 * [Bootstrap 3](http://getbootstrap.com/)
 
 ### Requirements
-* Path - /var/www/
+* Directory structure
+
+![alt tag](github.com/username/projectname/branch/path/to/img.png)
+![Directory structure](https://raw.githubusercontent.com/mnmnc/img/master/medved_tree.jpg)
+
