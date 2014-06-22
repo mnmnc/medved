@@ -1,6 +1,7 @@
 # Mèdved
 
  [mêdved](http://en.wiktionary.org/wiki/medved) m anim (genitive medvéda, nominative plural medvédi or medvédje, feminine medvédka) 
+
 ==========
 
 
