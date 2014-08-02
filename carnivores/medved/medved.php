@@ -289,7 +289,7 @@
             var trimmed = (domains[index]).trim();
             if (trimmed.length > 3){
               // ALFANUMERICS AND DOTS ARE ALLOWED
-              var sanitized = sanitize("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.", trimmed );
+              var sanitized = sanitize("abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.-", trimmed );
               results.push(sanitized);
             }
           }
